@@ -2,6 +2,9 @@
 A chatbot for interns to ask questions.
 
 ## Authors:
-** Evliya Diyar Kaya
-** Haktan Sarıtepe
-** Ömer Alperen Katı
+
+1.Evliya Diyar Kaya
+
+2.Haktan Sarıtepe
+
+3.Ömer Alperen Katı
